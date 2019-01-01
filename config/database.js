@@ -9,6 +9,6 @@ if (env === 'development') {
 }
 
 module.exports = {
-    'secret':'kokdkdsisfis93939487717qejjdj',
+    'secret':'eowiieurhhdsgsgggagiieieihhahaggjdjdjjd',
     'database': process.env.MONGODB_URI
   };
